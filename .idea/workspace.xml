@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9f5a6536-57bf-41bd-9e72-324f46fb1098" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/udagram/udagram-frontend/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
       <workItem from="1671253846856" duration="114000" />
       <workItem from="1671253961941" duration="48000" />
       <workItem from="1671254010945" duration="127000" />
-      <workItem from="1671255182722" duration="10759000" />
+      <workItem from="1671255182722" duration="13048000" />
     </task>
     <servers />
   </component>
